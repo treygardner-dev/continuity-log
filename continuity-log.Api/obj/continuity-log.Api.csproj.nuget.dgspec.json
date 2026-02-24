@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TreyG\\dev\\continuity-log\\continuity-log.Api\\continuity-log.Api.csproj": {}
+    "c:\\Users\\TreyG\\dev\\continuity-log\\continuity-log.Api\\continuity-log.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TreyG\\dev\\continuity-log\\continuity-log.Api\\continuity-log.Api.csproj": {
+    "c:\\Users\\TreyG\\dev\\continuity-log\\continuity-log.Api\\continuity-log.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TreyG\\dev\\continuity-log\\continuity-log.Api\\continuity-log.Api.csproj",
+        "projectUniqueName": "c:\\Users\\TreyG\\dev\\continuity-log\\continuity-log.Api\\continuity-log.Api.csproj",
         "projectName": "continuity-log.Api",
-        "projectPath": "C:\\Users\\TreyG\\dev\\continuity-log\\continuity-log.Api\\continuity-log.Api.csproj",
+        "projectPath": "c:\\Users\\TreyG\\dev\\continuity-log\\continuity-log.Api\\continuity-log.Api.csproj",
         "packagesPath": "C:\\Users\\TreyG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TreyG\\dev\\continuity-log\\continuity-log.Api\\obj\\",
+        "outputPath": "c:\\Users\\TreyG\\dev\\continuity-log\\continuity-log.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TreyG\\AppData\\Roaming\\NuGet\\NuGet.Config"
