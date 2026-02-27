@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("continuity-log.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc168c074c94fa04a354429557fe5df6a317be0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce6f6a7454ec579ff6219ffa49e28460a9b8ff0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("continuity-log.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("continuity-log.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

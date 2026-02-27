@@ -1,0 +1,5 @@
+GET http://localhost:5185/messages
+
+###
+
+GET http://localhost:5185/messages/1
